@@ -131,15 +131,15 @@ input[type="tel"]:focus {
 }
 
 .btn-main:hover {
-  background: #1E90FF;
-  border-color: #1E90FF;
+  background: #e12454;
+  border-color: #e12454;
   color: #fff;
 }
 
 .btn-main-2 {
-  background: #1E90FF;
+  background: #1e90ff;
   color: #fff;
-  border-color: #1E90FF;
+  border-color: #1e90ff;
 }
 
 .btn-main-2:hover {
@@ -216,28 +216,28 @@ input[type="tel"]:focus {
 }
 
 #navbarmain .nav-link.btn-signup {
-  background: #1e90ff;
-  border: 1px solid #1e90ff;
+  background: #e12355;
+  border: 1px solid #e12355;
   color: #fff;
   padding: 6px 20px;
   border-radius: 5px;
 }
 
 #navbarmain .nav-link.btn-outline-red {
-  border: 1px solid #1e90ff;
-  color: #1e90ff;
+  border: 1px solid #e12355;
+  color: #e12355;
   padding: 6px 20px;
   border-radius: 5px;
   transition: all 0.5s;
 }
 
 #navbarmain .nav-link.btn-outline-red:hover {
-  background: #1e90ff;
+  background: #e12355;
   color: #fff;
 }
 
 #navbarmain .nav-item.active > a.nav-link {
-  color: #1e90ff;
+  color: #e12355;
 }
 .bg-gray {
   background: #eff0f3;
@@ -340,7 +340,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #1E90FF;
+  color: #e12454;
   text-decoration: none;
 }
 
@@ -448,7 +448,7 @@ a:focus {
   visibility: hidden;
   transition: all 0.3s ease-out 0s;
   border: 0px;
-  border-top: 5px solid #1E90FF;
+  border-top: 5px solid #e12454;
   border-radius: 0px;
 }
 
@@ -467,7 +467,7 @@ a:focus {
 }
 
 .dropdown .dropdown-item:hover {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .header-top-bar {
@@ -537,13 +537,13 @@ a:focus {
 }
 
 .text-color-2 {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .divider {
   width: 40px;
   height: 5px;
-  background: #1E90FF;
+  background: #1e90ff;
 }
 
 @media (max-width: 480px) {
@@ -726,7 +726,7 @@ a:focus {
 }
 
 .service i {
-  color: #1E90FF;
+  color: #1e90ff;
   font-size: 50px;
 }
 
@@ -753,7 +753,7 @@ a:focus {
 
 .service-2 .service-block i {
   font-size: 40px;
-  color: #e12355;
+  color: #1e90ff;
 }
 
 .fdr-plan .fdr-item {
@@ -774,7 +774,7 @@ a:focus {
 }
 
 .fdr-plan i {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .fdr-plan h4 {
@@ -806,7 +806,7 @@ a:focus {
   font-family: "IcoFont";
   top: 8px;
   left: 0;
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .fdr-plan .plan-feature-list li span {
@@ -833,7 +833,7 @@ a:focus {
 }
 
 .loan i {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .loan h4 {
@@ -882,7 +882,7 @@ a:focus {
 }
 
 .department-service li i {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .doctors .btn-group .btn {
@@ -897,7 +897,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent;
-  background: #1E90FF;
+  background: #e12454;
   color: #fff;
 }
 
@@ -909,14 +909,14 @@ a:focus {
 .doctors .btn-group .btn:focus {
   box-shadow: none !important;
   border-color: transparent;
-  background: #1E90FF;
+  background: #e12454;
   color: #fff;
 }
 
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent;
-  background: #1E90FF;
+  background: #e12454;
   color: #fff;
 }
 
@@ -956,7 +956,7 @@ a:focus {
 
 .doctor-info li i {
   margin-right: 20px;
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .read-more {
@@ -1119,7 +1119,7 @@ a:focus {
 
 .testimonial-block.style-2 i {
   bottom: -20px;
-  color: #1E90FF;
+  color: #e12454;
   opacity: 0.3;
 }
 
@@ -1228,7 +1228,7 @@ a:focus {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .blog-item-content h2 {
@@ -1284,7 +1284,7 @@ a:focus {
   color: #223a66;
   padding: 40px;
   font-style: italic;
-  border-left: 5px solid #1E90FF;
+  border-left: 5px solid #e12454;
   margin: 25px 0px;
 }
 
@@ -1494,7 +1494,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #1E90FF;
+  background: #e12454;
 }
 
 .sidebar-widget.latest-post .media img {
@@ -1607,7 +1607,7 @@ a:focus {
 }
 
 .widget .footer-menu a:hover {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .footer-contact-block span {
@@ -1640,7 +1640,7 @@ a:focus {
 }
 
 .widget-contact h6 i {
-  color: #1E90FF;
+  color: #e12454;
 }
 
 .subscribe {
@@ -1662,7 +1662,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #1E90FF;
+  background: #1e90ff;
   z-index: 9999;
   display: inline-block;
   right: 55px;
